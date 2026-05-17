@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "username": "admin",
+  "displayName": "ADMIN",
+  "expiresAt": "2026-12-31T23:59:59+08:00",
+  "maxRegisteredDevices": 1,
+  "registeredDevices": [
+    {
+      "deviceHash": "sha256:4f2d3a75ad606854729c250392262bf0efb07ea8d4d44be0d28738cd45bb2305",
+      "deviceName": "dongbudongdeMac-mini.local - Darwin",
+      "platform": "macos",
+      "registeredAt": "2026-05-17T22:00:00+08:00"
+    }
+  ],
+  "providers": {
+    "openai_compatible": {
+      "enabled": true,
+      "baseUrl": "https://newapi.loki.cc.cd/v1",
+      "encryptedApiKey": {
+        "algorithm": "AES-256-GCM",
+        "nonce": "7x2tztKV5YmGim1Z",
+        "ciphertext": "dLg5gsooUh8lRDQr9rZM2/n0AD3D2gcCTaxh1JzaRDx96akdHoZgxPedg17Cf/S1JgT2J+xl0Ic/LRcP+tYcitiJQQ=="
+      }
+    },
+    "openai_official": {
+      "enabled": true,
+      "baseUrl": "https://api.openai.com/v1",
+      "encryptedApiKey": {
+        "algorithm": "AES-256-GCM",
+        "nonce": "P8FytFsihSMmnZUn",
+        "ciphertext": "+3TeGffEdAE/Z5D1ewvHeD3rZtUl+8B7MM0ewRM/061z3MUZe6Weos3rZq6vZKTj8fElIW7r6sPnYRFMydklpShh/i+x41r30v6p4zNmW48wOiXcS5KqFCulWy7BzNkUgHB/if5doNijbNAHB/CHBFJaG/T8+4kLHry9mTt0UeAChth+zwhA4YGGtChQVJVhtFwCzvdoPfcNUgRYcqVr7tTBoEO8Qo5lKkED2UreEJ9JzsmhY/Kd"
+      }
+    },
+    "google_gemini": {
+      "enabled": false,
+      "baseUrl": "https://generativelanguage.googleapis.com/v1beta",
+      "encryptedApiKey": null
+    }
+  },
+  "revoked": false,
+  "updatedAt": "2026-05-18T01:06:39+08:00",
+  "signature": "CrfmU7V4/KWGo6wOCLQRSHfJ2b3zBFmhDdFswvAzLYnS0jE7Vhx9GGBDIkkFGn/3OW1tOjhhiuXkG11B3zd7Dg=="
+}
