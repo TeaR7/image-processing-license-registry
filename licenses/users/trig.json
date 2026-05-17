@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "username": "trig",
+  "displayName": "TRIG",
+  "expiresAt": "2026-12-31T23:59:59+08:00",
+  "maxRegisteredDevices": 1,
+  "registeredDevices": [
+    {
+      "deviceHash": "sha256:4f2d3a75ad606854729c250392262bf0efb07ea8d4d44be0d28738cd45bb2305",
+      "deviceName": "dongbudongdeMac-mini.local - Darwin",
+      "platform": "macos",
+      "registeredAt": "2026-05-17T22:00:00+08:00"
+    }
+  ],
+  "providers": {
+    "openai_compatible": {
+      "enabled": true,
+      "baseUrl": "https://example.com/v1",
+      "encryptedApiKey": {
+        "algorithm": "AES-256-GCM",
+        "nonce": "2iQPeVqFiNbJGqgm",
+        "ciphertext": "Xdson3cgenTQeDhTXOY1bqXSAMASmEnaAm1qWIAPpCCDR081Pf1sXIKKWsfDKMEzTIkanw=="
+      }
+    },
+    "openai_official": {
+      "enabled": false,
+      "baseUrl": "https://api.openai.com/v1",
+      "encryptedApiKey": null
+    },
+    "google_gemini": {
+      "enabled": false,
+      "baseUrl": "https://generativelanguage.googleapis.com/v1beta",
+      "encryptedApiKey": null
+    }
+  },
+  "revoked": false,
+  "updatedAt": "2026-05-17T22:00:00+08:00",
+  "signature": "7wgdXwR/Ao7ynn9Ua9bx6SkTiFuv4q1teDP5cJUjQVTUd2k2FKpR2QorNCsZQeUH3oNP2HeZYaTADk9x9O7jCg=="
+}
