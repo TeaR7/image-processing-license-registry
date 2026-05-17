@@ -18,8 +18,8 @@
       "baseUrl": "https://example.com/v1",
       "encryptedApiKey": {
         "algorithm": "AES-256-GCM",
-        "nonce": "2iQPeVqFiNbJGqgm",
-        "ciphertext": "Xdson3cgenTQeDhTXOY1bqXSAMASmEnaAm1qWIAPpCCDR081Pf1sXIKKWsfDKMEzTIkanw=="
+        "nonce": "dHJpZy11c2VyLXYx",
+        "ciphertext": "/uhUwyzur6S6npexhEzl1wa+QgnzBvY0giDEU4KS6cN7ncVHBC/adKkUQxtWRBpiaomxag=="
       }
     },
     "openai_official": {
@@ -34,6 +34,6 @@
     }
   },
   "revoked": false,
-  "updatedAt": "2026-05-17T22:00:00+08:00",
-  "signature": "7wgdXwR/Ao7ynn9Ua9bx6SkTiFuv4q1teDP5cJUjQVTUd2k2FKpR2QorNCsZQeUH3oNP2HeZYaTADk9x9O7jCg=="
+  "updatedAt": "2026-05-17T22:10:00+08:00",
+  "signature": "8xSXgsyjUCliQSA7LI6X9r6hDGqTNqlR7SLRZBuXK0wf0cS2jUzKx73ii2cl46NP4YupAPT0kcU3Zs0EcXL+Bg=="
 }
