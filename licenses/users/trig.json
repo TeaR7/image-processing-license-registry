@@ -18,14 +18,18 @@
       "baseUrl": "https://newapi.loki.cc.cd/v1",
       "encryptedApiKey": {
         "algorithm": "AES-256-GCM",
-        "nonce": "dHJpZy1jb21wYXRpYmxlLXYx",
-        "ciphertext": "cV+ap2MuUfnbcxXCJ+jS9mJwdEFexpuHd7hImt0GQaVjehqQRNIEpv6P+jEDzpiheOce8j7ERbg4ELR6GymYCjnMqw=="
+        "nonce": "ZxaeV5wHglLbDe+R",
+        "ciphertext": "sObkwUVj1pD3bgTrBcU8clhwqxTaZWMHYVfpWgpqzYMAYg+YYNjMyjGuSz89og6ZZP5ZTStPvEWUr8WvyqnRt2yvkQ=="
       }
     },
     "openai_official": {
-      "enabled": false,
+      "enabled": true,
       "baseUrl": "https://api.openai.com/v1",
-      "encryptedApiKey": null
+      "encryptedApiKey": {
+        "algorithm": "AES-256-GCM",
+        "nonce": "GkzbyJ4vHIa97jU6",
+        "ciphertext": "DF/rRurdZQ08Qu+3TnBA2XefblueuwK1oQEQJTYJRSgokDVgM9X+NKfBD2bRuIoN+ZbvN8pKdTZdXtsojnmSEfJ/A15SCN9ngjIjCJu1eWwAHxuKTxq/ulb2I5yWL6CCQ6Ec/xwBIvBfNAZjQe9C4kSvKCmDE1FIoc+4iAAdMWhl1lYk6F3q4ryz3816wlxcVlUsbJ1TfH8zYKItvqSUvJ1F5sR5dJ1CHGymB41+qi8gcrbhQfhw"
+      }
     },
     "google_gemini": {
       "enabled": false,
@@ -34,6 +38,6 @@
     }
   },
   "revoked": false,
-  "updatedAt": "2026-05-17T22:20:00+08:00",
-  "signature": "Hs9wuapJdSDwXmtUaG6sPAxxA2fbPd8HAcQqy89D57GwQlGzVooD1NVHdJz3b7+oP5uFeFBdJrf3aorSTz1DCQ=="
+  "updatedAt": "2026-05-17T22:30:00+08:00",
+  "signature": "6s65+r0oBqO1pQ3PE9dXwDfOqEcJIg2P3xC37uGJ5IRm5W5bWToZYhHl9se+f8OHvoBvoTavAP9Y389z/2yFBw=="
 }
