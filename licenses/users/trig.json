@@ -15,11 +15,11 @@
   "providers": {
     "openai_compatible": {
       "enabled": true,
-      "baseUrl": "https://example.com/v1",
+      "baseUrl": "https://newapi.loki.cc.cd/v1",
       "encryptedApiKey": {
         "algorithm": "AES-256-GCM",
-        "nonce": "dHJpZy11c2VyLXYx",
-        "ciphertext": "/uhUwyzur6S6npexhEzl1wa+QgnzBvY0giDEU4KS6cN7ncVHBC/adKkUQxtWRBpiaomxag=="
+        "nonce": "dHJpZy1jb21wYXRpYmxlLXYx",
+        "ciphertext": "cV+ap2MuUfnbcxXCJ+jS9mJwdEFexpuHd7hImt0GQaVjehqQRNIEpv6P+jEDzpiheOce8j7ERbg4ELR6GymYCjnMqw=="
       }
     },
     "openai_official": {
@@ -34,6 +34,6 @@
     }
   },
   "revoked": false,
-  "updatedAt": "2026-05-17T22:10:00+08:00",
-  "signature": "8xSXgsyjUCliQSA7LI6X9r6hDGqTNqlR7SLRZBuXK0wf0cS2jUzKx73ii2cl46NP4YupAPT0kcU3Zs0EcXL+Bg=="
+  "updatedAt": "2026-05-17T22:20:00+08:00",
+  "signature": "Hs9wuapJdSDwXmtUaG6sPAxxA2fbPd8HAcQqy89D57GwQlGzVooD1NVHdJz3b7+oP5uFeFBdJrf3aorSTz1DCQ=="
 }
