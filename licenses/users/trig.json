@@ -38,6 +38,8 @@
     }
   },
   "revoked": false,
-  "updatedAt": "2026-05-17T22:30:00+08:00",
-  "signature": "6s65+r0oBqO1pQ3PE9dXwDfOqEcJIg2P3xC37uGJ5IRm5W5bWToZYhHl9se+f8OHvoBvoTavAP9Y389z/2yFBw=="
+  "updatedAt": "2026-05-18T01:54:48+08:00",
+  "minimumSupportedAppVersion": "0.1.37",
+  "latestAppVersion": "0.1.37",
+  "signature": "YnDVZjHbcFvu2u6IrbN4eMcmprWxdmT8D8sJVAsOGg0K7dX0FV064aAv7N4a5m7ukW5cN74P6HGy6E3DzibpBQ=="
 }
