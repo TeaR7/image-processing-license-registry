@@ -50,8 +50,20 @@
     }
   },
   "revoked": false,
-  "updatedAt": "2026-05-18T17:12:04+08:00",
+  "updatedAt": "2026-05-19T00:57:05+08:00",
   "minimumSupportedAppVersion": "0.1.38",
   "latestAppVersion": "0.1.38",
-  "signature": "jubvCcijsfxdz6gSU/ToaoJ8USO6XygCMAjeF7H6uslBr4J8q4DbJKptFn6TAlDtU+a/dn68yUL3BMNonotNAQ=="
+  "recharges": [
+    {
+      "id": "rc_20260519_001_trig",
+      "creditedAmountUsd": 137.55,
+      "paidAmountUsd": 166.44,
+      "taxAmountUsd": 28.89,
+      "taxRate": 0.21,
+      "currency": "USD",
+      "paidAt": "2026-05-19T00:57:05+08:00",
+      "note": ""
+    }
+  ],
+  "signature": "SpCaVWIaONXuejuhEXIz7uosrhyXj3o7UdObvTm/mBrf+aJfjPXCZT+4dn8sTLwo88LcyNQKNEvcbWX9J/rSBg=="
 }
