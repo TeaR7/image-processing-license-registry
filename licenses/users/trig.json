@@ -3,13 +3,25 @@
   "username": "trig",
   "displayName": "TRIG",
   "expiresAt": "2026-12-31T23:59:59+08:00",
-  "maxRegisteredDevices": 1,
+  "maxRegisteredDevices": 10,
   "registeredDevices": [
     {
       "deviceHash": "sha256:4f2d3a75ad606854729c250392262bf0efb07ea8d4d44be0d28738cd45bb2305",
       "deviceName": "dongbudongdeMac-mini.local - Darwin",
       "platform": "macos",
       "registeredAt": "2026-05-17T22:00:00+08:00"
+    },
+    {
+      "deviceHash": "sha256:79050a17ba2b531f2e382c34c219ca54294ab26d09169c4539e42f70617cdb3e",
+      "deviceName": "iMacPro.fritz.box - Darwin",
+      "platform": "macos",
+      "registeredAt": "2026-05-18T17:07:31+08:00"
+    },
+    {
+      "deviceHash": "sha256:e109e056f55ba88fef0e6f70c63e09571fa1cb92a60586e2a08fc35cd6eac312",
+      "deviceName": "iMac.fritz.box - Darwin",
+      "platform": "macos",
+      "registeredAt": "2026-05-18T17:04:42+08:00"
     }
   ],
   "providers": {
@@ -38,8 +50,8 @@
     }
   },
   "revoked": false,
-  "updatedAt": "2026-05-18T02:10:55+08:00",
+  "updatedAt": "2026-05-18T17:12:04+08:00",
   "minimumSupportedAppVersion": "0.1.38",
   "latestAppVersion": "0.1.38",
-  "signature": "1dwYnueZyDwk+wTjqPOVssj6sOrSTfZt/gZQaEa+Q8et92vBx5X0XWNZoxpVpMkzhltIvUHLCoGBvUBiwBoxAw=="
+  "signature": "jubvCcijsfxdz6gSU/ToaoJ8USO6XygCMAjeF7H6uslBr4J8q4DbJKptFn6TAlDtU+a/dn68yUL3BMNonotNAQ=="
 }
