@@ -16,6 +16,12 @@
       "deviceName": "iMac.fritz.box - Darwin",
       "platform": "macos",
       "registeredAt": "2026-05-18T17:04:42+08:00"
+    },
+    {
+      "deviceHash": "sha256:4f2d3a75ad606854729c250392262bf0efb07ea8d4d44be0d28738cd45bb2305",
+      "deviceName": "dongbudongdeMac-mini.local - Darwin",
+      "platform": "macos",
+      "registeredAt": "2026-05-21T21:57:17+08:00"
     }
   ],
   "providers": {
@@ -44,7 +50,7 @@
     }
   },
   "revoked": false,
-  "updatedAt": "2026-05-21T21:12:26+08:00",
+  "updatedAt": "2026-05-21T21:58:11+08:00",
   "minimumSupportedAppVersion": "0.1.38",
   "latestAppVersion": "0.1.38",
   "recharges": [
@@ -59,5 +65,5 @@
       "note": ""
     }
   ],
-  "signature": "qrP3R3np4UR3m1shWBnZGPR8SebolmP7DNQ2bJWp1ME7Q/tCGbH4PGGhnzhswsgsyriOTdypznLcUChU+bcBBQ=="
+  "signature": "e8TKH6jci0XTcF2wMNxi1EuIusY0Z9lCzURbhJkMJ6Xhan8jIBLZm97ZYeFgZOgKVi19IJqg5XTUKnS52yF2DA=="
 }
