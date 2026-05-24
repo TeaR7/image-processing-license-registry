@@ -56,9 +56,9 @@
     }
   },
   "revoked": false,
-  "updatedAt": "2026-05-24T17:51:27+08:00",
+  "updatedAt": "2026-05-24T20:05:30+08:00",
   "minimumSupportedAppVersion": "0.1.65",
-  "latestAppVersion": "0.1.65",
+  "latestAppVersion": "0.1.69",
   "recharges": [
     {
       "id": "rc_20260519_001_trig",
@@ -71,5 +71,5 @@
       "note": ""
     }
   ],
-  "signature": "9EPnauMZHqyozaIVntvLVvpVIHTux2H1tQumpV0oi+ivFLp54YgtZcntGWU7xo3RSP4OAr3yOH8+xyA7HXsFCw=="
+  "signature": "9tPrH+lKJrCF0uqt+eIxHe+63f0oUiaefACV7iKk5mH1QEYM4vgFpE/BqODFoMKKIkngjmMoWeaPBR2DBR2TBg=="
 }
