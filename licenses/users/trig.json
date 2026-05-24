@@ -22,6 +22,12 @@
       "deviceName": "dongbudongdeMac-mini.local - Darwin",
       "platform": "macos",
       "registeredAt": "2026-05-21T21:57:17+08:00"
+    },
+    {
+      "deviceHash": "sha256:010d52501985ad218f1f1f122affcfac1f58380af3164a47a8446d5a68ae9f71",
+      "deviceName": "Mac.lan - Darwin",
+      "platform": "macos",
+      "registeredAt": "2026-05-24T01:49:17+08:00"
     }
   ],
   "providers": {
@@ -50,7 +56,7 @@
     }
   },
   "revoked": false,
-  "updatedAt": "2026-05-21T21:58:11+08:00",
+  "updatedAt": "2026-05-24T10:27:42+08:00",
   "minimumSupportedAppVersion": "0.1.38",
   "latestAppVersion": "0.1.38",
   "recharges": [
@@ -65,5 +71,5 @@
       "note": ""
     }
   ],
-  "signature": "e8TKH6jci0XTcF2wMNxi1EuIusY0Z9lCzURbhJkMJ6Xhan8jIBLZm97ZYeFgZOgKVi19IJqg5XTUKnS52yF2DA=="
+  "signature": "dBnrXSIImf7brpUkhSeqjeqqWNz8i8FJGSlUFoCLuF0Kh+xcVN8NPr0q/aTFnSW+mg63SgYvVT7vzoMl/3RNBA=="
 }
