@@ -34,6 +34,12 @@
       "deviceName": "RAFFAELMENNELLA.fritz.box - Darwin",
       "platform": "macos",
       "registeredAt": "2026-05-26T16:08:06+08:00"
+    },
+    {
+      "deviceHash": "sha256:6ff9639c703a03276970e47157ddf5eff3b95351144ed240c29853d787457c93",
+      "deviceName": "iMac-UFFICIO.fritz.box - Darwin",
+      "platform": "macos",
+      "registeredAt": "2026-05-26T17:09:47+08:00"
     }
   ],
   "providers": {
@@ -62,7 +68,7 @@
     }
   },
   "revoked": false,
-  "updatedAt": "2026-05-26T17:10:53+08:00",
+  "updatedAt": "2026-05-26T17:18:07+08:00",
   "minimumSupportedAppVersion": "0.1.65",
   "latestAppVersion": "0.1.73",
   "recharges": [
@@ -77,5 +83,5 @@
       "note": ""
     }
   ],
-  "signature": "+SF2DTV7JyOQm6yv5FzOP78kopFZf1n8GGFd85sAMxD8baGVQGz0qzvvsrZrKVZixVVX49Kjbetebe+CvhIODQ=="
+  "signature": "XU2+7KuVM2RJf2csOPim8uGo4q1yC6CV0NgWUNo+ANuFo5BxgARGnZa/n5TyHNTpuXZBrYX/ZqGQZYhWD+6gCw=="
 }
