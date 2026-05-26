@@ -28,6 +28,12 @@
       "deviceName": "Mac.lan - Darwin",
       "platform": "macos",
       "registeredAt": "2026-05-24T01:49:17+08:00"
+    },
+    {
+      "deviceHash": "sha256:48750901838ae8d5867146311f0a0fc090b450a6e264e63cd4b12ccdf72958d9",
+      "deviceName": "RAFFAELMENNELLA.fritz.box - Darwin",
+      "platform": "macos",
+      "registeredAt": "2026-05-26T16:08:06+08:00"
     }
   ],
   "providers": {
@@ -56,9 +62,9 @@
     }
   },
   "revoked": false,
-  "updatedAt": "2026-05-24T21:49:28+08:00",
+  "updatedAt": "2026-05-26T17:10:53+08:00",
   "minimumSupportedAppVersion": "0.1.65",
-  "latestAppVersion": "0.1.70",
+  "latestAppVersion": "0.1.73",
   "recharges": [
     {
       "id": "rc_20260519_001_trig",
@@ -71,5 +77,5 @@
       "note": ""
     }
   ],
-  "signature": "w2dk7Wjms4LqjvStB1YiDFxTpcJqBtQMcE54RU4lSzbUZR4j4IK4JfMyAfH9RErdcbBvCaRx5Nmt7yM98WdoCA=="
+  "signature": "+SF2DTV7JyOQm6yv5FzOP78kopFZf1n8GGFd85sAMxD8baGVQGz0qzvvsrZrKVZixVVX49Kjbetebe+CvhIODQ=="
 }
