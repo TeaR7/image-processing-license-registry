@@ -46,6 +46,12 @@
       "deviceName": "zhutianrendeMBP.fritz.box - Darwin",
       "platform": "macos",
       "registeredAt": "2026-05-27T16:33:09+08:00"
+    },
+    {
+      "deviceHash": "sha256:d54078bfe982ea2719cba27a2ff8871b823b909c0452a7e64389d726e4655ff8",
+      "deviceName": "iMacdiPgiuseppe.fritz.box - Darwin",
+      "platform": "macos",
+      "registeredAt": "2026-06-24T18:34:57+08:00"
     }
   ],
   "providers": {
@@ -74,7 +80,7 @@
     }
   },
   "revoked": false,
-  "updatedAt": "2026-06-06T02:18:46+08:00",
+  "updatedAt": "2026-06-24T19:11:11+08:00",
   "minimumSupportedAppVersion": "0.1.65",
   "latestAppVersion": "0.5.15",
   "recharges": [
@@ -99,5 +105,5 @@
       "note": ""
     }
   ],
-  "signature": "inJ5o6XHXGDToaTkuSCdOGvw+o9TVCqb8cvR4UXupubq/4rRTJ4rL+eMd3XlweRsuYu9fg10Kxi1sgcQc4ArDQ=="
+  "signature": "eqhtVB4tBkCCG6yxlcYZTmIZc2U2C4J9eqMA7JKY/4JCL9V2gM+dmKXoCAUUCkl5c0KGz9TOABBHOsgvOjB8Dg=="
 }
